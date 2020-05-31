@@ -13,11 +13,11 @@ So here I am using [Pytesserect](https://pypi.org/project/pytesseract/) which us
 
 ## Additional Resources:
 
-*What are the best OCR tools: [Link](https://source.opennews.org/articles/so-many-ocr-options/)
+* What are the best OCR tools: [Link](https://source.opennews.org/articles/so-many-ocr-options/)
 
-*Tesserect: [More Info](https://github.com/tesseract-ocr/docs/blob/master/das_tutorial2016/1Intro-history.pdf)
+* Tesserect: [More Info](https://github.com/tesseract-ocr/docs/blob/master/das_tutorial2016/1Intro-history.pdf)
 
-*Tessrect Parameters [Link](https://wilsonmar.github.io/tesseract/)
+* Tessrect Parameters [Link](https://wilsonmar.github.io/tesseract/)
 
-*Using Tesserect with Python: [Link](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/)
+* Using Tesserect with Python: [Link](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/)
 

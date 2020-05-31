@@ -1,5 +1,5 @@
 # pdf_to_text
-##Convert a folder full of PDFs into Text files 
+## Convert a folder full of PDFs into Text files 
 
 
 This is something I coded based on resources available on the web. My initial motivation was to figure out a way to convert PDFs into text format. I also wanted to do this in bulk or in bath fashion.
@@ -11,7 +11,7 @@ The more challenging PDFs are the ones that are scanned "images". So for example
 So here I am using [Pytesserect](https://pypi.org/project/pytesseract/) which uses Google's OCR tool: [Tesserect](https://github.com/tesseract-ocr/tesseract). There are more info on Tesserect and other OCR tools in the resource section below.
 
 
-##Additional Resources:##
+## Additional Resources:
 
 *What are the best OCR tools: [Link](https://source.opennews.org/articles/so-many-ocr-options/)
 

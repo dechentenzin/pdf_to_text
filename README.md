@@ -8,15 +8,16 @@ There are two types of PDFs out there, from what I know. You have your regular "
 
 The more challenging PDFs are the ones that are scanned "images". So for example, a document that was printed then later scanned. Now, converting these images into text require learning about "OCR" (Optical Character Recognition). 
 
-So here I am using [Pytesserect] (https://pypi.org/project/pytesseract/) which uses Google's OCR tool: [Tesserect] (https://github.com/tesseract-ocr/tesseract). There are more info on Tesserect and other OCR tools in the resource section below.
+So here I am using [Pytesserect](https://pypi.org/project/pytesseract/) which uses Google's OCR tool: [Tesserect](https://github.com/tesseract-ocr/tesseract). There are more info on Tesserect and other OCR tools in the resource section below.
 
 
 ##Additional Resources:##
 
-Tesserect: [More Info] (https://github.com/tesseract-ocr/docs/blob/master/das_tutorial2016/1Intro-history.pdf)
+*What are the best OCR tools: [Link](https://source.opennews.org/articles/so-many-ocr-options/)
 
-Tessrect Parameters [Link[ (https://wilsonmar.github.io/tesseract/)
+*Tesserect: [More Info](https://github.com/tesseract-ocr/docs/blob/master/das_tutorial2016/1Intro-history.pdf)
 
-Using Tesserect with Python: [Link] (https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/)
+*Tessrect Parameters [Link](https://wilsonmar.github.io/tesseract/)
 
-What are the best OCR tools: [Link] (https://source.opennews.org/articles/so-many-ocr-options/)
+*Using Tesserect with Python: [Link](https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/)
+
